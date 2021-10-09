@@ -1,1 +1,1 @@
-# meli-meli
+# meli-config
